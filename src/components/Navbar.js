@@ -63,7 +63,7 @@ function Navbar() {
               className='nav-links'
               onClick={closeMobileMenu}
             >
-              Contact Us
+              Unklab 360
             </Link>
           </li>
           <li className='nav-item'>
@@ -72,7 +72,7 @@ function Navbar() {
               className='nav-links'
               onClick={closeMobileMenu}
             >
-              Unklab 360
+              Contact Us
             </Link>
           </li>
           <li>
