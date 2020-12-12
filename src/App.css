@@ -9,7 +9,7 @@
 .programofstudy,
 .unklab360,
 .contact-us,
-.sign-up,
+.about-me,
 .informatics,
 .informationsystem {
   display: flex;
@@ -38,9 +38,9 @@
 }
 
 .contact-us{
-  background-image: url('./images/img-06.jpg');
+  background-image: url('./images/img-03.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: rgb(245, 229, 8);
   font-size: 100px;
@@ -55,13 +55,13 @@
   font-size: 100px;
 }
 
-.sign-up {
-  background-image: url('./images/img-03.jpg');
+.about-me {
+  background-image: url('./images/img-06.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: rgb(245, 229, 8);
-  font-size: 100px;
+  font-size: 40px;
 }
 
 .informatics { 
