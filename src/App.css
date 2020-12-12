@@ -6,12 +6,12 @@
 }
 
 .home,
-.services,
-.products,
+.programofstudy,
+.unklab360,
 .contact-us,
 .sign-up,
-.marketing,
-.consulting {
+.informatics,
+.informationsystem {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -20,64 +20,64 @@
 }
 
 .home {
-  background-image: url('./images/img-1.jpg');
+  background-image: url('./images/img-02.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
-.services {
-  background-image: url('./images/img-2.jpg');
+.programofstudy {
+  background-image: url('./images/img-05.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
-.products {
-  background-image: url('./images/img-3.jpg');
+.unklab360 {
+  background-image: url('./images/img-06.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
 .contact-us {
-  background-image: url('./images/img-4.jpg');
+  background-image: url('./images/img-07.jpg');
   background-position: center;
-  background-size: cover;
+  background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
 .sign-up {
-  background-image: url('./images/img-7.jpg');
+  background-image: url('./images/img-03.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
-.marketing {
-  background-image: url('./images/img-6.jpg');
+.informatics { 
+  background-image: url('./images/img-01.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
 
-.consulting {
-  background-image: url('./images/img-5.jpg');
+.informationsystem {
+  background-image: url('./images/img-04.jpg');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(245, 229, 8);
   font-size: 100px;
 }
